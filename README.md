@@ -32,15 +32,14 @@ npm start
 The project has been created express.js and therefore has a similar structure to all express.js apps.
 
 ````
-routes/ –  Contains all routes split as per their catergory into their respective files
+routes/ –  Contains all routes split as per their catergory into their respective files
 views/  – Jade templates for all the views
-util/ – Contains database and environment configuration files
-public/ – Contains assets served along with the webpages
+util/ – Contains database and environment configuration files
+public/ – Contains assets served along with the webpages
 ````
 
 ### Further Reading
 
-[express.js]("https://expressjs.com/")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[express.js](https://expressjs.com/)
 
-[Setup Postgresql database and users]("https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/")
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setup Postgresql database and users](https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/)
